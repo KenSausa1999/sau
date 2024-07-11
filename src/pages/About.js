@@ -22,13 +22,13 @@ const About = () => {
               </div>
               <div className="col-lg-8">
                 <div className="card box shadow mb-3 p-3">
-                <h4 className="text-dark"><span>Lorem</span></h4>
-              <p className="text-black"> Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups. </p>
+                <h4 className="text-dark"><span>About Me </span></h4>
+              <p className="text-black"> I'm John Kenneth Travilla Sausa, I'm 24 years old and I love playing Basketball. </p>
           
                 </div>
                 <div className="card box shadow p-3">
-                <h4 className="text-dark"><span>Lorem</span> </h4>
-              <p className="text-black"> Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.</p>
+                <h4 className="text-dark"><span>Philippians 4:13</span> </h4>
+              <p className="text-black"> </p> "I CAN DO ALL THIS THROUGH HIM WHO GIVES ME STRENGTH"
               <p> </p>
                 </div>
               </div>

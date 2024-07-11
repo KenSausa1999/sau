@@ -31,7 +31,7 @@ const Experience = () => {
           </div>
           <div className="col-lg-4">
           <img className="three" src={PC3Image} />
-          <h4 className="three text-white">retet</h4>
+          <h4 className="three text-white">Making ID's to the Students</h4>
           </div>
           </div>  
       </div>
